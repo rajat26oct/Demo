@@ -1,0 +1,75 @@
+               C
+
+-->what is pointer?
+-->what is function?
+-->what is nuul pointer?
+
+               DS
+
+-->what is the use of pop method in stack?
+-->what is data structure?
+-->what is stack?
+-->what is overflow and underflow?
+-->how we manage overflow?
+-->what is push and pop?
+
+              CPP
+
+-->what is static function?
+-->use of constructor?
+-->what is inheritance?
+-->use of destructor?
+-->use of protected access specifer?
+-->how many types of inheritance in cpp?
+-->what is preprocer?
+-->what is pointer?
+-->what is abstract?
+-->use of constructor?
+-->whats is inheritance?
+-->use of Destructor?
+-->use of protected access specifier?
+-->what is contaitment?
+-->rule for writting destructor?
+-->can we have return type in destructor?
+-->what is use of copy constructor?
+-->what is the contener class?
+-->diffrence between passbyvalue and passbyrefence?
+-->what is polymorphism?
+-->what is function overloading?
+-->can we do operator loading in cpp?
+-->which operator we can not overrite?
+-->what is command line argument?
+-->what is limitaion of array?
+
+
+               DBT
+ 
+-->what is SQL?
+-->what is use of unique key?
+-->what is DDL?
+-->can i insert more than row using single statement?
+-->what is differnce between drop,delete and truncate table?
+-->use of join?
+-->use of foregin key?
+-->Not null Constraint?
+-->can foregin key can have null values?
+-->Diffrence between primary key and unique key?
+-->what is use of drop table?
+
+             
+              AWP
+
+-->the new feture added in HTML5
+-->teh new input tag in HTML5?
+-->pop boxex in HTML?
+-->how many datatype in javascript?
+-->how we can write in javascript(syntax)?
+-->java script is staticaly or dynamicaly type?
+-->onblur and onhover?
+-->use of Inline CSS?
+-->what use of javascript?
+-->use of getElementById?
+-->use of inner HTML property?
+-->new feture added in HTML5?
+-->if my text box access only emailid?
+-->use of confirm pop box?
